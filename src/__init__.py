@@ -1,0 +1,2 @@
+def trainer():
+    return None
